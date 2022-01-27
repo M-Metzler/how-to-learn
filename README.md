@@ -17,6 +17,9 @@
 5. Секция с видео из YouTube
 
 
-### Запуск проекта
+### Запуск проекта:
 1. Клонировать проект командой ``` git clone https://github.com/M-Metzler/how-to-learn.git ```
 2. Запуск проекта на локальном сервере с помощью Live Server
+
+### Посмотреть страницу: 
+[Ссылка на проект](https://m-metzler.github.io/how-to-learn/)
